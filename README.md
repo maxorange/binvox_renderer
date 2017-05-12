@@ -1,5 +1,5 @@
 # binvox renderer
-binvox renderer in Processing version 3.0.2 or later.
+binvox renderer in Processing version 3.0.2 or later.<br>
 <img src="img/bunny.binvox.png" width="200">
 ## Getting started
 1. download the zip file
